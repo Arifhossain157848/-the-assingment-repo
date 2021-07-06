@@ -69,14 +69,42 @@ h1{
     text-size-adjust: 10px;
     text-align: center;
     color:blue;
-    box-shadow: gray 2px 4px 5px ;
+    box-shadow: gray 2px 2px 5px ;
     box-sizing:unset;
     box-decoration-break:slice;
     -moz-text-size-adjust: auto;
+    margin-bottom: auto;
+    -moz-box-direction: normal;
+    -moz-box-sizing: padding-box;
   
 
 }
 .white-color{
     color: whitesmoke;
+    text-align-last: center;
+ 
+  .short-from{
+     border-radius:white;
+     border: solid 5px;
+     text-align-last:center;
+    text-align-last: center;
+    text-size-adjust: 05x;
+     text-align-last: center;
+    box-shadow: gray 2px 2px 5px ;
+    border-width: 10px;
+    border height: 10px;
+    border :right 10px;
+   border :left 20px;
 }
  
+
+     
+ .black-clr{
+     color: white;
+     background-color: black;
+ border: solid; 15px 
+margin-left: 10px;}
+marginright:10px
+height: 80px;
+ width: 400px;
+    font-size:22px;;
