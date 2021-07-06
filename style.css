@@ -36,6 +36,7 @@ h1{
 }
 .back-image{
     background-image: url(food-network/images/shapes/Frame\ 58.jpg);
+    
      
 
 }
@@ -56,13 +57,13 @@ h1{
     background-image: linear-gradient(white orange);
 }
 .first-middle{
-    box-shadow: initial;
   margin-left: 35px;
   margin: right 180px;
   color: red;
   height: 50px;
   text-align: center;
-  text-size-adjust:inherit;
+   
+  
    
     
 }
