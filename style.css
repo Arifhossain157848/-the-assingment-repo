@@ -16,7 +16,7 @@ h1{
  }
  
  .keep-far{
-     width: 50%;
+     width: 60%;
      padding-left:5%;
      padding-right: 5%;
  }
@@ -47,12 +47,23 @@ h1{
     color:seashell;
     background-color:red;
     text-decoration: none;
-    margin: 2px;
-    padding: 7px 20px;
-    width: 90px;
-    height: 60px;
+    margin: 50x;
+    padding: 9px 20px;
+    width: 20px;
+    height: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border-radius: 25px;
+    border-radius: 15px;
     background-image: linear-gradient(white orange);
+}
+.first-middle{
+    box-shadow: initial;
+  margin-left: 35px;
+  margin: right 180px;
+  color: red;
+  height: 50px;
+  text-align: center;
+  text-size-adjust:inherit;
+   
+    
 }
  
