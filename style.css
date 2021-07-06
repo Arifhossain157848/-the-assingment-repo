@@ -2,10 +2,10 @@ h1{
     font-size: 40px;
 }
  body{
-    font-family: 'Encode Sans SC', sans-serif;
+    font-family: font-family: 'Poppins', sans-serif;;
  }
  .red-clr{
-     color: red;
+     color:bl;
  }
  .first-color{
      color:red;
@@ -35,7 +35,7 @@ h1{
     
 }
 .back-image{
-    background-image: url(food-network/images/shapes/Frame\ 58.jpg);
+    background-image: url(food-network/images/shapes/welpapr.webp);
     
      
 
@@ -62,9 +62,21 @@ h1{
   color: red;
   height: 50px;
   text-align: center;
-   
+   }
+
+.recepe-color{
+    text-align-last: center;
+    text-size-adjust: 10px;
+    text-align: center;
+    color:blue;
+    box-shadow: gray 2px 4px 5px ;
+    box-sizing:unset;
+    box-decoration-break:slice;
+    -moz-text-size-adjust: auto;
   
-   
-    
+
+}
+.white-color{
+    color: whitesmoke;
 }
  
