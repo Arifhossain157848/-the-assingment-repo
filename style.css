@@ -1,0 +1,44 @@
+h1{
+    font-size: 40px;
+}
+ body{
+    font-family: 'Encode Sans SC', sans-serif;
+ }
+ .red-clr{
+     color: red;
+ }
+ .first-color{
+     color:white;
+      
+ }
+ section{
+     display: flex;
+ }
+ 
+ .keep-far{
+     width: 50%;
+     padding-left:5%;
+     padding-right: 5%;
+ }
+     
+.press-it{
+    color:seashell;
+    background-color:red;
+    text-decoration: none;
+    margin: 2px;
+    padding: 7px 20px;
+    width: 90px;
+    height: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 25px;
+    background-image: linear-gradient(white orange);
+    
+}
+.back-image{
+    background-image: url(food-network/images/shapes/wallpaper.jpg);
+     
+
+}
+      
+
+ 
