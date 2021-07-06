@@ -8,7 +8,7 @@ h1{
      color: red;
  }
  .first-color{
-     color:white;
+     color:red;
       
  }
  section{
@@ -35,10 +35,24 @@ h1{
     
 }
 .back-image{
-    background-image: url(food-network/images/shapes/wallpaper.jpg);
+    background-image: url(food-network/images/shapes/Frame\ 58.jpg);
      
 
 }
-      
-
+ .behind-photo{
+     background-image: url(food-network/images/shapes/background.jpg);
+ }     
+ 
+.set-fifty{
+    color:seashell;
+    background-color:red;
+    text-decoration: none;
+    margin: 2px;
+    padding: 7px 20px;
+    width: 90px;
+    height: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 25px;
+    background-image: linear-gradient(white orange);
+}
  
