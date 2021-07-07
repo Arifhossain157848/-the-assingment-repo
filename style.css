@@ -6,7 +6,8 @@ h1{
  }
  .red-clr{
      color:red;
-     widht: 20px;
+     widht: px;
+     height: 40px;
  }
  .first-color{
      color:red;
@@ -36,7 +37,7 @@ h1{
     
 }
 .back-image{
-    background-image: url(images/final/wallpaper.jpg);
+    background-image: url(images/final/pizzahut.jpg);
     background-repeat: no-repeat;
     
      
@@ -73,12 +74,15 @@ h1{
     text-align: center;
     color:blue;
     box-shadow: gray 2px 2px 5px ;
-    box-sizing:unset;
+    box-sizing:content-box;
     box-decoration-break:slice;
     -moz-text-size-adjust: auto;
     margin-bottom: auto;
-    -moz-box-direction: normal;
-    -moz-box-sizing: padding-box;
+    width: 284px;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
   
 
 }
