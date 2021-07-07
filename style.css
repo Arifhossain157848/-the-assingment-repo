@@ -36,12 +36,14 @@ h1{
 }
 .back-image{
     background-image: url(images/final/images.jpg);
+    background-repeat: no-repeat;
     
      
 
 }
  .behind-photo{
      background-image: url(images/shapes/collected.jpg);
+     background-repeat: no-repeat;
  }     
  
 .set-fifty{
