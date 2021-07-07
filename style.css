@@ -5,7 +5,8 @@ h1{
     font-family: font-family: 'Poppins', sans-serif;;
  }
  .red-clr{
-     color:bl;
+     color:red;
+     widht: 20px;
  }
  .first-color{
      color:red;
@@ -35,14 +36,14 @@ h1{
     
 }
 .back-image{
-    background-image: url(images/final/images.jpg);
+    background-image: url(images/final/wallpaper.jpg);
     background-repeat: no-repeat;
     
      
 
 }
  .behind-photo{
-     background-image: url(images/shapes/collected.jpg);
+     background-image: url(images/shapes/Frame\ 59.jpg);
      background-repeat: no-repeat;
  }     
  
