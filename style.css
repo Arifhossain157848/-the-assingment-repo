@@ -6,11 +6,11 @@ h1{
  }
  .red-clr{
      color:red;
-     widht: px;
+     widht: 20px;
      height: 40px;
  }
  .first-color{
-     color:red;
+     color:white;
       
  }
  section{
@@ -37,7 +37,7 @@ h1{
     
 }
 .back-image{
-    background-image: url(images/final/pizzahut.jpg);
+    background-image: url(images/final/coolest.jpg);
     background-repeat: no-repeat;
     
      
@@ -78,8 +78,9 @@ h1{
     box-decoration-break:slice;
     -moz-text-size-adjust: auto;
     margin-bottom: auto;
-    width: 284px;
-    padding: 10px 10px 20px 10px;
+    height: 400px;
+    width: 200px;
+    padding:20px 10px 20px 10px;
     border: 1px solid #BFBFBF;
     background-color: white;
     box-shadow: 10px 10px 5px #aaaaaa;
