@@ -69,6 +69,7 @@ h1{
    }
 
 .recepe-color{
+    display: flex;
     text-align-last: center;
     text-size-adjust: 10px;
     text-align: center;
@@ -79,7 +80,7 @@ h1{
     -moz-text-size-adjust: auto;
     margin-bottom: auto;
     height: 15px;
-    width: 10%;
+    width: 50%;
     padding:20px 10px 20px 10px;
     border: 1px solid #BFBFBF;
     background-color: white;
