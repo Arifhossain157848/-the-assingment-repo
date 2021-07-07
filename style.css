@@ -79,7 +79,7 @@ h1{
     box-decoration-break:slice;
     -moz-text-size-adjust: auto;
     margin-bottom: auto;
-    height: 11%;
+    height: 9%;
     width: 100%;
     padding:20px 10px 20px 10px;
     border: 1px solid #BFBFBF;
@@ -91,14 +91,12 @@ h1{
 .white-color{
     color: whitesmoke;
     text-align-last: center;
- 
-  .short-from{
      border-radius:white;
      border: solid 5px;
-     text-align-last:center;
+    text-align-last:center;
     text-align-last: center;
     text-size-adjust: 05x;
-     text-align-last: center;
+    text-align-last: center;
     box-shadow: gray 2px 2px 5px ;
     border-width: 10px;
     border height: 10px;
@@ -109,11 +107,10 @@ h1{
 
      
  .black-clr{
-     color: white;
-     background-color: black;
- border: solid; 15px 
+color: white;
+background-color: black;
+border: solid; 15px 
 margin-left: 10px;}
 marginright:10px
 height: 80px;
  width: 400px;
-    font-size:22px;;
